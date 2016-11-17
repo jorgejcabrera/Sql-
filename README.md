@@ -1,2 +1,4 @@
 # Sql-
 Sql Training
+
+postgresql
