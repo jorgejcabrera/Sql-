@@ -1,4 +1,4 @@
-Dado los siguientes esquemas de relaciones, se pide obtener una única sentencia SQL para las siguientes consultas: <br />
+Dado los siguientes esquemas de relaciones, se pide <br />
 
 *medico(__matricula__,apellido,nombre);* <br />
 *medico_especialidad(__nombre_de_especialidad,matricula__);* <br />
