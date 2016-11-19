@@ -1,7 +1,7 @@
 Dado los siguientes esquemas de relaciones se pide :neckbeard: <br />
 
 *alumnos( matricula ,apellido,nombre_al,nacionalidad);* <br />
-*materias( codigo_de_materia ,nombre_mat,anio,cant_de_horas);* 
+*materias( <del> codigo_de_materia </del>,nombre_mat,anio,cant_de_horas);* <br />
 *examenes( codigo_materia,matricula,fecha ,nota);* <br />
 
 ```
