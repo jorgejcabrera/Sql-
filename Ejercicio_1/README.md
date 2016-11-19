@@ -1,4 +1,4 @@
-Dado los siguientes esquemas de relaciones se pide :neckbeard <br />
+Dado los siguientes esquemas de relaciones se pide :neckbeard: <br />
 
 *alumnos( **matricula** ,apellido,nombre_al,nacionalidad);* <br />
 *materias( **codigo_de_materia** ,nombre_mat,anio,cant_de_horas);* <br />
