@@ -2,7 +2,7 @@ Dado los siguientes esquemas de relaciones se pide :neckbeard: <br />
 
 *alumnos( __matricula__ ,apellido,nombre_al,nacionalidad);* <br />
 *materias(  __codigo_de_materia__ ,nombre_mat,anio,cant_de_horas);* <br />
-*examenes( codigo_materia,matricula,fecha ,nota);* <br />
+*examenes( __codigo_materia,matricula,fecha__ ,nota);* <br />
 
 ```
 a) los datos de las materias que registren, la cantidad maxima de examenes rendidos por materia 
