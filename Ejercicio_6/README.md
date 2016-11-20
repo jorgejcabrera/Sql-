@@ -1,6 +1,6 @@
 Dado los siguientes esquemas de relaciones, se pide <br />
 
-*clientes(__cod_cliente__,nomb_y_apellido,domicilio,localidad,saldo);* <br />
+*clientes(__cod_cli__,nomb_y_apellido,domicilio,localidad,saldo);* <br />
 *facturas(__nrofactura__,cliente,fecha);* <br />
 *detalles(__nrofactura,cod_art__,cantidad);* <br />
 *articulos(__cod_art__,descripcion,cod_rubro,stock,pto_reposicion,precio);* <br />
