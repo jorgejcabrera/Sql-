@@ -40,7 +40,7 @@ create table ejercicio6.rubros(
 insert into ejercicio6.detalles (nrofactura,cod_art,cantidad) values
 	(1,1,2),
     (2,1,42),
-    (3,2,5),
+    (3,3,5),
     (4,3,5),
     (5,4,7);
     
